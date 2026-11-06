@@ -1,0 +1,5 @@
+_base_: base.yaml                 # the bar every regulariser must beat
+train:
+  label_smoothing: 0.1
+  mixup_alpha: 0.2
+  specaugment: true

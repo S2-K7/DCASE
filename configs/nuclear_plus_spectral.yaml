@@ -1,0 +1,4 @@
+_base_: baseline_strong.yaml
+reg:
+  nuclear_emb: 1.0e-2
+  spectral_penalty: 1.0e-2

@@ -1,0 +1,3 @@
+_base_: baseline_strong.yaml
+reg:
+  nuclear_weights: 1.0e-2

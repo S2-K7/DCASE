@@ -1,0 +1,3 @@
+_base_: baseline_strong.yaml
+reg:
+  spectral_penalty: 1.0e-2

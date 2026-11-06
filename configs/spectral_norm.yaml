@@ -1,0 +1,3 @@
+_base_: baseline_strong.yaml
+reg:
+  spectral_norm: true
